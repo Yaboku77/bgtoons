@@ -1,4 +1,4 @@
-<script>
+
       // Here we define our query as a multi-line string
       // Storing it in a separate .graphql/.gql file is also possible
       var query = `
@@ -120,4 +120,4 @@ document.getElementById("banner-image").src = bannerImage;
 
 
       
-    </script>
+   
